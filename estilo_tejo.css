@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 footer {
     background-color: #382e2e;
     color: #a07657;
@@ -77,3 +78,31 @@ body {
     display: inline-block;
     vertical-align: middle;}
 >>>>>>> header
+=======
+.fondo_pantalla {
+  min-height: 100vh;
+  background: 
+    linear-gradient(rgba(5 , 7, 12, 0.75),rgba(5 , 7, 12, 0.75)),
+    url("/imagenes/walpaper_tejo.png")center center scroll;
+  background-size: cover;
+ }
+
+.marcos_img_body{
+  width: 800px;
+  height: 500px;
+  object-fit: cover;
+  margin: 15px;
+}
+
+.fonts{
+  font-size: 30px;
+  color: aliceblue;
+  margin: 25px;
+}
+
+.pos{
+  display: flex;             
+  align-items: center;       
+  gap: 20px;   
+}
+>>>>>>> body
